@@ -46,3 +46,7 @@ int main() {
 
     return 0;
 }
+
+int binary_search() {
+		cout<<"Mahesh";
+}
